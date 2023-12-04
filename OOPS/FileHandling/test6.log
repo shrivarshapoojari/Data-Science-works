@@ -1,0 +1,30 @@
+INFO:root:This is my line of exec
+INFO:root:This is my line of exec
+INFO:root:This is my line of exec
+INFO:root:This is my line of exec
+INFO:root:This is my line of exec
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 09aa716e-a493-494c-95b1-c7f84476c73c
+ERROR:root:Error
+CRITICAL:root:Critical
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 79751cf8-dbaf-4aae-b571-fa258b7b47dc
+CRITICAL:root:CRITICAL
+CRITICAL:root:CRITICAL
+WARNING:root:THIS IS WARNING
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 0cb66fe1-ea78-4607-94b2-e0df309d4648
+INFO:root:This is my line of exec
+ERROR:root:Error
+CRITICAL:root:CRITICAL
+WARNING:root:THIS IS WARNING
+INFO:root:infologs
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 31556564-8f64-4291-9c05-863a0cff8900
+INFO:root:infologs
+INFO:root:infologs
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: e00432e1-544a-49f4-93a7-e4d4ee8d5cb1
+INFO:root:infologs
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 6c7525b1-01a4-47f9-aa4e-7366ae6564df
